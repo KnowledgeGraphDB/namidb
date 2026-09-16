@@ -2,7 +2,6 @@
 **/*.rs.bk
 .DS_Store
 .idea/
-.vscode/
 *.iml
 *.swp
 *.swo
@@ -34,3 +33,5 @@ build/
 crates/namidb-py/python/**/*.so
 crates/namidb-py/python/**/*.dylib
 crates/namidb-py/python/**/*.pyd
+config.bat
+node_modules
